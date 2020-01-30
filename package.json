@@ -10,7 +10,7 @@
     "hubdb": "^1.0.0",
     "object-assign": "^2.0.0",
     "react": "^0.12.2",
-    "react-router": "^0.11.6",
+    "react-router": "^0.13.6",
     "st": "^0.5.2",
     "xhr": "^2.0.1",
     "xtend": "^4.0.0"
