@@ -6,7 +6,7 @@
   "dependencies": {
     "6to5ify": "^4.1.0",
     "fixed-data-table": "^0.1.0",
-    "flux": "^2.0.1",
+    "flux": "^4.0.1",
     "hubdb": "^1.0.0",
     "object-assign": "^2.0.0",
     "react": "^0.12.2",
